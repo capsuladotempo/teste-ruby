@@ -69,7 +69,7 @@ Abaixo mais detalhes do payload esperado na API, resultado do processamento dos 
     "type": "mov",
     "name": "2839.mov",
     "length": 1109,
-  }
+  },
   "machine": {
       "id": 1
   }
